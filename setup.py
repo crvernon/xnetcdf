@@ -1,4 +1,4 @@
-"""Setup file for <your model name>
+"""Setup file for xnetcdf
 
 License:  BSD 2-Clause, see LICENSE and DISCLAIMER files
 

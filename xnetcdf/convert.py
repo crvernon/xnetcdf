@@ -25,7 +25,7 @@ def build_grid(x_min, y_min, x_max, y_max, resolution, constant_value=np.nan):
     :param resolution:                  Grid cell resolution
     :type resolution:                   float
 
-    :param constant_value:              The constant value to assign to the output array
+    :param constant_value:              The constant value to assign to the output array; default `np.nan`
     :type constant_value:               float; int
 
     :return:                            2D array matching the shape of the coordinate plane; all values set to NaN

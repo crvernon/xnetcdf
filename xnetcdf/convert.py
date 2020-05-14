@@ -1,5 +1,8 @@
 """Conversion code from CSV to NetCDF files
 
+:author:   Chris R. Vernon
+:email:    chris.vernon@pnnl.gov
+
 License:  BSD 2-Clause, see LICENSE and DISCLAIMER files
 
 """

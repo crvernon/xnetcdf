@@ -1,1 +1,1 @@
-include xnetcdf/tests/data/inputs/*
+include xnetcdf/tests/data/*

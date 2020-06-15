@@ -5,7 +5,7 @@ NetCDF builder for Xanthos standard outputs
 The `xnetcdf` package was built to convert [Xanthos](https://github.com/jgcri/xanthos) (a global hydrology model) outputs to a NetCDF format.  Xanthos outputs are presently in a CSV flat file format where 67420 0.5-degree land cell values (rows) are listed per time step (columns) without global spatial context and without file metadata. The new NetCDF structure that this package produces a file for each variable (e.g., runoff) with a time and 2D spatial representation for the global coordinate plane.  The new file structure also supports file metadata documenting units, the coordinate reference system, model run information, and other necessary metadata.
 
 ## Getting Started Using the `xnetcdf` Package
-The `xnetcdf` package uses only **Python 3.3** and up.
+The `xnetcdf` package uses only **Python 3.6** and up.
 
 ### Step 1:
 

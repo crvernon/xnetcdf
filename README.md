@@ -47,5 +47,3 @@ x = DataToArray(xanthos_reference_file='<path to the xanthos reference file>',
 
 x.data_array
 ```
-
-### Example 2:  Create a NetCDF file for a Xanthos CSV outputs
